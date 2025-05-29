@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Alain+G.+OGOU; Data+ Analyst | Data Scientist Full-Stack+Developer;+Lover&center=true&width=380&height=50">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Alain+G.+OGOU;Data-Analyst+Developer;DevOps+Lover&center=true&width=380&height=50">
 
   [![Visits Badge](https://badges.pufler.dev/visits/Alainogou/Alainogou)](https://badges.pufler.dev)
-  [![Years Badge](https://badges.pufler.dev/years/Pascal1812)](https://badges.pufler.dev)
-  [![Repos Badge](https://badges.pufler.dev/repos/Pascal1812)](https://badges.pufler.dev)
+  [![Years Badge](https://badges.pufler.dev/years/Alainogou)](https://badges.pufler.dev)
+  [![Repos Badge](https://badges.pufler.dev/repos/Alainogou)](https://badges.pufler.dev)
 </div>
+
 
 ## 💫 About Me
 
@@ -27,7 +28,7 @@ Since November 2024, I’ve been specializing in DevOps, driving projects that s
 ## 🔥 Streak Stats
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Pascal1812&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Alainogou&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
 
 </div>
 
