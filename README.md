@@ -1,16 +1,19 @@
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Alain+G.+OGOU;Data+Analyst;Data+Scientist&center=true&width=380&height=50">
+ 
   [![Visits Badge](https://badges.pufler.dev/visits/Alainogou/Alainogou)](https://badges.pufler.dev)
   [![Years Badge](https://badges.pufler.dev/years/Alainogou)](https://badges.pufler.dev)
   [![Repos Badge](https://badges.pufler.dev/repos/Alainogou)](https://badges.pufler.dev)
 </div>
 
 
-## 💫 About Me
+## 👋  About Me
 
-I’m a passionate developer with over 5 years of experience building performant backends and dynamic frontends. I began my career as an electrotechnician—working for five years at companies like SENELEC and CFAO Technologies—before making the jump to software development in 2022.
+Je suis Data Analyst, certifié Google Advanced Data Analytics.
+J’aime utiliser les données pour résoudre des problèmes concrets.
+Mes outils : Python, SQL, Tableau, Pandas, Machine Learning.
+Je travaille sur des projets en NLP, Computer Vision et analyse de données.
 
-Since November 2024, I’ve been specializing in DevOps, driving projects that streamline infrastructure and deployment, including **Deep-in-Net**, **Deep-in-System**, **CRUD\_master**, **Play-with-containers**, and **Orchestration**. I thrive on tackling ambitious problems and turning complex challenges into reliable, scalable solutions.
 
 
 ## 📬 Connect With Me
