@@ -9,10 +9,10 @@
 
 ## 👋  About Me
 
-Je suis Data Analyst, certifié Google Advanced Data Analytics.
-J’aime utiliser les données pour résoudre des problèmes concrets.
-Mes outils : Python, SQL, Tableau, Pandas, Machine Learning.
-Je travaille sur des projets en NLP, Computer Vision et analyse de données.
+- Je suis Data Analyst, certifié Google Advanced Data Analytics.
+- J’aime utiliser les données pour résoudre des problèmes concrets.
+- Mes outils : Python, SQL, Tableau, Pandas, Machine Learning.
+- Je travaille sur des projets en NLP, Computer Vision et analyse de données.
 
 
 
@@ -63,13 +63,13 @@ Je travaille sur des projets en NLP, Computer Vision et analyse de données.
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pascal1812&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pascal1812&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alainogou&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alainogou&layout=compact&theme=radical"/>
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pascal1812&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Pascal1812" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Alainogou&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Alainogou" />
 </p>
 
 ## 🚀 Current Projects
@@ -172,7 +172,7 @@ Supporting ADE's digital transformation to amplify their impact and reach in hel
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pascal1812&color=blueviolet&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=Alainogou&color=blueviolet&style=flat-square">
   <h4>💝 Thanks for visiting! Have a great day! 💝</h4>
 </div>
 
